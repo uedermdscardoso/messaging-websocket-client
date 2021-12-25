@@ -7,7 +7,6 @@ Back-end: Java (Spring Framework) <br />
 Hosting: Heroku (server)
 
 Server: https://github.com/uedermdscardoso/messaging_websocket_server
-
 <br />
 
 Version:  <br />
