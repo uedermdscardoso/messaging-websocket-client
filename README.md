@@ -13,9 +13,9 @@ Server: https://github.com/uedermdscardoso/messaging_websocket_server
 Version:  <br />
 <br/>
 -> frond-end <br /> 
-Flutter 2.8.1 <br />
-Dart 2.15.1  <br />
+Flutter SDK 2.8.1 <br />
+Dart SDK 2.15.1  <br />
 <br />
 -> back-end <br />
-Java 1.8 to 17
+Java SDK 1.8 to 17
 
