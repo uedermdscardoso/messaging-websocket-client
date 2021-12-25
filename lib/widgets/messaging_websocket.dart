@@ -18,7 +18,7 @@ class MessagingWebSocket extends StatefulWidget {
 
 class _MessagingWebSocketState extends State<MessagingWebSocket> {
 
-  static final socketUrl = 'https://messaging-websocket.herokuapp.com/gs-guide-websocket';
+  static final socketUrl = 'https://messaging-websocket-server.herokuapp.com/gs-guide-websocket';
 
   final TextEditingController _controller = TextEditingController();
   final BehaviorSubject<List<String>> _messages = BehaviorSubject<List<String>>();
