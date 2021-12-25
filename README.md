@@ -1,4 +1,4 @@
-# WebSocket - Messaging
+# Flutter and WebSocket
 
 Testing flutter to receive messages from server (Java)
 
